@@ -19,6 +19,7 @@ All new code added for MongoDB shall be placed in a class called MongoDBDataStor
 write this in readme file of the class]
 
 
+
 The Store Manager will be able to see the table of product inventory, bar chart of inventory, table of all products currently on sale, table of all products currently that have manufacture rebates, table of products sold, bar chart of products sold, daily sale transactions and data visualization of products sold based on zip code.
 
 Search Auto-Completion feature is added in the following manner.
