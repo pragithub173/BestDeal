@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+
+    <console id="Logitech">
+        <name>Logitech Z506</name>
+        <price>68.99</price>
+        <image>Logitech.jpg</image>
+        <manufacturer>Logitech</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>10</inventory>
+	</console>
+    <console id="Dodocool">
+        <name>Dodocool Sound Bar</name>
+        <price>99.99</price>
+        <image>DodocoolSound.jpg</image>
+        <manufacturer>Dodocool</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>25</inventory>
+    </console>
+    <console id="Rockville">
+        <name>Rockville HTS56</name>
+        <price>149.99</price>
+        <image>Rockville.jpg</image>
+        <manufacturer>Rockville</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<inventory>23</inventory>
+    </console>
+	<console id="Onkyo">
+        <name>Onkyo HT-S5800</name>
+        <price>699.99</price>
+        <image>onkyosound.jpg</image>
+        <manufacturer>Onkyo</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>62</inventory>
+    </console>
+	<console id="Klipsch">
+        <name>Klipsch Sound System</name>
+        <price>899.99</price>
+        <image>klipschsound.jpg</image>
+        <manufacturer>Klipsch</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>70</inventory>
+    </console>
+
+
+
+    <tablet id="Samsung1">
+        <name>Samsung UN50RU7100FXZA</name>
+        <price>397.99</price>
+        <image>Samsung.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>50</inventory>
+    </tablet>
+    <tablet id="TCL">
+        <name>TCL 32S325 32 Inch</name>
+        <price>127.88</price>
+        <image>TCL.jpg</image>
+        <manufacturer>TCL</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>26</inventory>
+    </tablet>
+    <tablet id="Toshiba">
+        <name>Toshiba</name>
+        <price>159.99</price>
+        <image>Toshiba.jpg</image>
+        <manufacturer>Toshiba</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<inventory>30</inventory>
+    </tablet>
+	<tablet id="LG">
+        <name>LG 55UM7300PUA</name>
+        <price>499.99</price>
+        <image>lgtv.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<inventory>40</inventory>
+    </tablet>
+	<tablet id="Insignia">
+        <name>Insignia 39-inch</name>
+        <price>159.99</price>
+        <image>insigniatv.jpg</image>
+        <manufacturer>Insignia</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<inventory>23</inventory>
+    </tablet>
+    
+    
+<game id="p1">
+        <name>Google Pixel 3a</name>
+        <price>399.99</price>
+        <image>Google.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<inventory>32</inventory>
+</game>
+<game id="p2">
+        <name>Samsung Galaxy A10</name>
+        <price>128.63</price>
+        <image>Samsungphone.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+		<inventory>40</inventory>
+</game>
+<game id="p3">
+        <name>Huawei Honor 8X</name>
+        <price>175.00</price>
+        <image>Huawei.jpg</image>
+        <manufacturer>Huawei</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<inventory>15</inventory>
+</game>
+<game id="p4">
+        <name>Nokia Lumia 635</name>
+        <price>175.00</price>
+        <image>phonesnokia.jpg</image>
+        <manufacturer>Nokia</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<inventory>50</inventory>
+</game>
+<game id="p5">
+        <name>Moto G6</name>
+        <price>165.00</price>
+        <image>phonesmoto.jpg</image>
+        <manufacturer>Moto</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<inventory>34</inventory>
+</game>
+
+
+    <laptop id="dell">
+        <name>Dell Inspiron 15.6”</name>
+        <price>383.95</price>
+        <image>Dellinspiron.jpg</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>57</inventory>
+     </laptop>
+
+    <laptop id="acer">
+        <name>Acer Aspire 5</name>
+        <price>509.99</price>
+        <image>AcerAspire5.jpg</image>
+        <manufacturer>Acer</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>77</inventory>
+     </laptop>
+	 
+	 <laptop id="asus">
+        <name>ASUS ZenBook 13 Ultra-Slim</name>
+        <price>999.99</price>
+        <image>ASUSZenBook13.jpg</image>
+        <manufacturer>Asus</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>56</inventory>
+     </laptop>
+		<laptop id="lenovo">
+        <name>Lenovo 130S</name>
+        <price>939.99</price>
+        <image>laptoplenovo.jpg</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>63</inventory>
+     </laptop>
+	 <laptop id="hp">
+        <name>HP Intel Core i3</name>
+        <price>999.99</price>
+        <image>laptophp.jpg</image>
+        <manufacturer>HP</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>45</inventory>
+     </laptop>
+
+
+	 
+	 <voice id="amazon1">
+        <name>Amazon Echo</name>
+        <price>20.99</price>
+        <image>amazonecho.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>61</inventory>
+     </voice>
+	 <voice id="apple1">
+        <name>Apple Home Pod</name>
+        <price>50.95</price>
+        <image>homepod.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>14</inventory>
+     </voice>
+
+    <voice id="google1">
+        <name>Google Home Mini</name>
+        <price>49.99</price>
+        <image>googlevoice.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>5</inventory>
+    </voice>
+	
+	<voice id="google">
+        <name>Google Home Max</name>
+        <price>550.95</price>
+        <image>voicegoogle.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>20</inventory>
+    </voice>
+		
+	<voice id="amazon">
+        <name>Echo Dot</name>
+        <price>50.95</price>
+        <image>voiceecho.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>30</inventory>
+    </voice>
+
+
+    <fitness id="letsfit">
+        <name>Letsfit Fitness Tracker</name>
+        <price>30.99</price>
+        <image>letsfit.jpg</image>
+        <manufacturer>Letsfit</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>40</inventory>
+    </fitness>
+    <fitness id="fitbit">
+        <name>Fitbit Inspire HR</name>
+        <price>20.99</price>
+        <image>fitbit.jpg</image>
+        <manufacturer>Fitbit</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>35</inventory>
+    </fitness>
+    <fitness id="willful">
+        <name>Willful Fitness Tracker</name>
+        <price>40.99</price>
+        <image>willful.jpg</image>
+        <manufacturer>Willful</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<inventory>63</inventory>
+    </fitness>
+	<fitness id="bingofit">
+        <name>BingoFit</name>
+        <price>20.99</price>
+        <image>fitnessbingo.jpg</image>
+        <manufacturer>BingoFit</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>38</inventory>
+    </fitness>
+	<fitness id="pubu">
+        <name>PUBU</name>
+        <price>30.99</price>
+        <image>fitnesspubu.jpg</image>
+        <manufacturer>PUBU</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>75</inventory>
+    </fitness>
+
+
+    <smartwatch id="Apple">
+        <name>Apple Watch Series 4</name>
+        <price>30.99</price>
+        <image>applesmartwatch.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>44</inventory>
+    </smartwatch>
+    <smartwatch id="Samsung2">
+        <name>Samsung Gear S2</name>
+        <price>20.99</price>
+        <image>samsungsmartwatch.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>56</inventory>
+    </smartwatch>
+    <smartwatch id="Amazfit">
+        <name>Amazfit Bip Smartwatch</name>
+        <price>40.99</price>
+        <image>amazfitsmartwatch.jpg</image>
+        <manufacturer>Amazfit</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<inventory>52</inventory>
+    </smartwatch>
+	<smartwatch id="Ticwatch">
+        <name>Ticwatch</name>
+        <price>20.99</price>
+        <image>smartticwatch.jpg</image>
+        <manufacturer>Ticwatch</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>39</inventory>
+    </smartwatch>
+	<smartwatch id="Wzpiss">
+        <name>Wzpiss</name>
+        <price>20.99</price>
+        <image>smartwzpiss.jpg</image>
+        <manufacturer>Wzpiss</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>42</inventory>
+    </smartwatch>
+	 
+
+
+
+    <headphone id="Panasonic">
+        <name>Panasonic ErgoFit</name>
+        <price>8.99</price>
+        <image>panasonichead.jpg</image>
+        <manufacturer>Panasonic</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>25</inventory>
+    </headphone>
+    <headphone id="Sony">
+        <name>Sony MDRXB50AP</name>
+        <price>9.99</price>
+        <image>sonyhead.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>12</inventory>
+    </headphone>
+    <headphone id="Betron">
+        <name>Betron B25</name>
+        <price>19.99</price>
+        <image>betronhead.jpg</image>
+        <manufacturer>Betron</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<inventory>1</inventory>
+    </headphone>
+	<headphone id="Bose">
+        <name>Bose SoundLink</name>
+        <price>19.99</price>
+        <image>headphonebose.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>15</inventory>
+    </headphone>
+	<headphone id="Sennheiser">
+        <name>Sennheiser HD</name>
+        <price>9.99</price>
+        <image>headphonesennheiser.jpg</image>
+        <manufacturer>Sennheiser</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>26</inventory>
+    </headphone>
+	
+
+
+    <wirelessplan id="Net10">
+        <name>Net10 Wireless</name>
+        <price>40.99</price>
+        <image>netwireless.jpg</image>
+        <manufacturer>Net10</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+		<inventory>36</inventory>
+    </wirelessplan>
+    <wirelessplan id="Mint">
+        <name>Mint Mobile Wireless Plan</name>
+        <price>60.99</price>
+        <image>mintwireless.jpg</image>
+        <manufacturer>Mint</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>96</inventory>
+    </wirelessplan>
+    <wirelessplan id="Total">
+        <name>Total Wireless</name>
+        <price>100.99</price>
+        <image>totalwireless.jpg</image>
+        <manufacturer>Total</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+		<inventory>77</inventory>
+    </wirelessplan>
+	<wirelessplan id="Tmobile">
+        <name>Tmobile</name>
+        <price>60.99</price>
+        <image>wirelesst.jpg</image>
+        <manufacturer>Tmobile</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>7</inventory>
+    </wirelessplan>
+	<wirelessplan id="Ultra">
+        <name>Ultra</name>
+        <price>60.99</price>
+        <image>wirelessu.jpg</image>
+        <manufacturer>Ultra</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+		<inventory>5</inventory>
+    </wirelessplan>
+
+
+</ProductCatalog>
+
+
+
+
