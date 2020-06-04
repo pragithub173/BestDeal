@@ -13,13 +13,6 @@ All order updates to insert/delete/update orders are reflected in the MySQL data
 Customer will be able to submit product reviews that are stored in database.
 Product reviews are stored in NoSQL database i.e., MongoDB. Add Trending & Data Analytics feature (detailed below).
 
-
-[All new code added for MySQL shall be placed in a class called MySQLDataStoreUtilities.java. 
-All new code added for MongoDB shall be placed in a class called MongoDBDataStoreUtilities.java
-write this in readme file of the class]
-
-
-
 The Store Manager will be able to see the table of product inventory, bar chart of inventory, table of all products currently on sale, table of all products currently that have manufacture rebates, table of products sold, bar chart of products sold, daily sale transactions and data visualization of products sold based on zip code.
 
 Search Auto-Completion feature is added in the following manner.
@@ -32,7 +25,6 @@ write this in readme file.
 
 
 Deal Match feature
-
 
 The python script will connect to Twitter server in order to get the current deals of BestBuy under the screen_name BestBuy_Deals.
 The python script will connect to MySQL server for SmartPortables app in order to get the list of products.
